@@ -1,4 +1,4 @@
-# SPREAD-OPERATOR IN JAVASCRIPT
+# SPREAD OPERATOR IN JAVASCRIPT
 
 The spread operator (`...`) is a powerful tool in JavaScript introduced in ES6 (ECMAScript 6) that allows you to expand an iterable like an array, object, or string into its individual elements. 
 
